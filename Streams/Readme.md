@@ -1,0 +1,1 @@
+**Streams in Node.js let you read or write data piece by piece (in chunks) rather than loading everything into memory at once. This makes your application memory-efficient and prevents crashes when dealing with large files or high-volume data.**
